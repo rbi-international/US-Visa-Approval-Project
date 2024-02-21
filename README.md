@@ -9,3 +9,13 @@ git commit -m "Updated"
 
 git push origin main
 ```
+
+### How to run ?
+
+```bash
+conda create p visa python==3.8 -y
+```
+
+```bash
+conda activate visa/
+```
